@@ -5,3 +5,4 @@ Dod as Pomoc
 Interface
 zm08b
 zm09b
+zm12
